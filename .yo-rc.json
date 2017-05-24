@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Vipul Bhopal",
+      "authorEmail": "i@vipul.me",
+      "authorUrl": ""
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "<%= name %>",
+  "description": "Minimal React JS app with Webpack2 with HMR",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "<%= author %>",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "dependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-env": "^1.5.1",
+    "babel-preset-react": "^6.24.1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "react-hot-loader": "next",
+    "webpack": "^2.6.0",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
